@@ -1,6 +1,6 @@
 # 📘 HOG vs Not-HOG Logo Classification (CNN Project)
 
-## 👥 Group # — CNN Project
+## 👥 Group 25 — CNN Project
 
 This project implements a Convolutional Neural Network (CNN) to classify images as the **official HOG logo** or **not the official HOG logo**.
 
