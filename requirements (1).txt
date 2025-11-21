@@ -1,0 +1,12 @@
+# Core ML stack
+torch
+torchvision
+
+# Numerics & utils
+numpy
+
+# Plotting
+matplotlib
+
+# Image handling (PIL backend for torchvision)
+Pillow
