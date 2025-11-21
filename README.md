@@ -108,10 +108,8 @@ The final selected model is saved with the required naming convention:
 torch.save({
     "model_state_dict": model.state_dict(),
     "best_arch_config": best_arch_config,
-}, "Group_#_CNN_FullModel.ph")
+}, "Group_25_CNN_FullModel.ph")
 ```
-
-Replace `#` with your actual group number.
 
 ---
 
